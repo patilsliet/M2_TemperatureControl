@@ -34,6 +34,10 @@ CPP Check
 
 [![cppcheck-action-test](https://github.com/patilsliet/M2_TemperatureControl/actions/workflows/c-cppcheck.yml/badge.svg)](https://github.com/patilsliet/M2_TemperatureControl/actions/workflows/c-cppcheck.yml)
 
+Valgrind
+
+[![Valgrind](https://github.com/patilsliet/M2_TemperatureControl/actions/workflows/valgrind.yml/badge.svg)](https://github.com/patilsliet/M2_TemperatureControl/actions/workflows/valgrind.yml)
+
 
 
 
