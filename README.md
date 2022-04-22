@@ -26,6 +26,10 @@ Code Grade
 
 ![Codacy Badge](https://api.codiga.io/project/33017/status/svg)
 
+Build Badge
+
+[![C Windows Build](https://github.com/patilsliet/M2_TemperatureControl/actions/workflows/build.yml/badge.svg)](https://github.com/patilsliet/M2_TemperatureControl/actions/workflows/build.yml)
+
 
 
 
