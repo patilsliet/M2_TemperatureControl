@@ -1,6 +1,6 @@
 /**
  * @file SerialCommunicationUART.c
- * @author Gnaneshwaran B (gnanesh05032001@gmail.com)
+ * @author Amitkumar Patil(1840153@sliet.ac.in)
  * @brief A file where serial communication functions are implemented
  * @version 0.1
  * @date 2022-04-20
