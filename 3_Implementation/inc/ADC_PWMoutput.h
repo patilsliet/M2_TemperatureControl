@@ -1,9 +1,9 @@
 /**
  * @file ADC_PWMoutput.h
- * @author Gnaneshwaran B (gnanesh05032001@gmail.com)
+ * @author Amitkumar Patil(1840153@sliet.ac.in)
  * @brief A header file for fast pulse width modulation using timer 1
  * @version 0.1
- * @date 2022-04-20
+ * @date 2022-04-22
  * 
  * 
  */
