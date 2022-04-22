@@ -30,6 +30,11 @@ Build Badge
 
 [![C Windows Build](https://github.com/patilsliet/M2_TemperatureControl/actions/workflows/build.yml/badge.svg)](https://github.com/patilsliet/M2_TemperatureControl/actions/workflows/build.yml)
 
+CPP Check
+
+[![cppcheck-action-test](https://github.com/patilsliet/M2_TemperatureControl/actions/workflows/c-cppcheck.yml/badge.svg)](https://github.com/patilsliet/M2_TemperatureControl/actions/workflows/c-cppcheck.yml)
+
+
 
 
 
